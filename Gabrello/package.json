@@ -1,0 +1,14 @@
+{
+  "name": "Gabrello",
+  "version": "0.0.5",
+  "description": "Anti-procrastination app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Rosa",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.33.6"
+  }
+}
